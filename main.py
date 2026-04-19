@@ -1,3 +1,4 @@
+# version 1
 # Railway Reservation System
 
 total_seats = 5
