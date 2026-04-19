@@ -9,4 +9,4 @@
 ## How to run
 1. Install Python
 2. Run main.py
-3. Follow menu options
+3. Follow menu options.
